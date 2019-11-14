@@ -8,7 +8,10 @@
 | Infinite Layers          | ee308      | dan-simon       | https://dan-simon.github.io/misc/b2/                            |
 | Multiplying Incrementals | ee308      | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                     |
 | Pixel Moose Clicker      | ee308      | greenshaman     | https://scratch.mit.edu/projects/337681661/                     |
-| NG+++                    | ee18      | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/  |
+| NG+++                    | ee18       | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/  |
 | True Exponential         | ee16       | angarg12        | https://angarg12.github.io/TrueExponential/                     |
 | Antimatter Dimensions    | ee9        | Hevipelle       | http://ivark.github.io/                                         |
+| Antimatter Dimensions 2  | ee8        | Despacit        | https://ad2-thing.glitch.me/                                    |
+| Antimatter Dimensions 2  | ee4        | Soul147         | https://bit.ly/2NJeSTu/                                         |
+|                          |            |                 |                                                                 |
 |                          |            |                 |                                                                 |
