@@ -3,7 +3,7 @@
 | Tetrational Madness      | 10^^200000 | Patcail         | https://scratch.mit.edu/projects/341525196/                     |
 | True Tetrational         | 10^^10000  | Patcail         | https://scratch.mit.edu/projects/310919497/                     |
 | True Infinity            | 10^^6      | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/                     |
-| Exponential Madness      | eeee3      | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
+| Exponential Madness      | eeee6      | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | Incremental Unlimited    | eee30      | Number Engineer | N/A                                                             |
 | Infinite Layers          | ee308      | dan-simon       | https://dan-simon.github.io/misc/b2/                            |
 | Multiplying Incrementals | ee308      | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                     |
