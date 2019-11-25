@@ -11,11 +11,11 @@
 | NG+++                    | ee18       | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/  |
 | True Exponential         | ee16       | angarg12        | https://angarg12.github.io/TrueExponential/                     |
 | Antimatter Dimensions    | ee9        | Hevipelle       | http://ivark.github.io/                                         |
-| Antimatter Dimensions 2  | ee8        | Despacit        | https://ad2-thing.glitch.me/                                    |
+| Antimatter Dimensions Redux  | ee8        | Despacit        | https://ad2-thing.glitch.me/                                    |
 | Insane Idle              | ee7        | keinniemand     | https://keinniemand.github.io/InsaneIdle/                       |
 | Idle Loot Quest          | ee5        | TopCog          | N/A                                                             |
 | Clicker Heroes           | ee5        | PlaySaurus      | https://www.clickerheroes.com/                                  |
-| Antimatter Dimensions 2  | ee4        | Soul147         | https://bit.ly/2NJeSTu/                                         |
+| Antimatter Dimensions -1 | ee4        | Soul147         | https://bit.ly/2NJeSTu/                                         |
 | Incremenal Adventures    | ee4        | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures |
 | Swarm Simulator          | e4800      | kawaritai       | https://www.swarmsim.com/                                       |
 |                          |            |                 |                                                                 |
