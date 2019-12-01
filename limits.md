@@ -1,8 +1,9 @@
 | Game                        | Limit      | Growth Rate (Active)   | Growth Rate (Idle)     | Creator         | Link                                                            |
 |-----------------------------|------------|------------------------|------------------------|-----------------|-----------------------------------------------------------------|
+| True Infinity               | 10^^^3     | Doubly Tetrational     | Doubly Tetrational     | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/                      |
 | Tetrational Madness         | 10^^200000 | >=Tetrational          | n-ply exponential      | Patcail         | https://scratch.mit.edu/projects/341525196/                     |
 | True Tetrational            | 10^^10000  | Tetrational:polynomial | Tetrational:polynomial | Patcail         | https://scratch.mit.edu/projects/310919497/                     |
-| True Infinity               | 10^^6      | Quintuply exponential  | Quintuply exponential  | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/                     |
+| True Infinity Alpha         | 10^^6      | Quintuply exponential  | Quintuply exponential  | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/                     |
 | Exponential Madness         | eeee6      | >Exponential           | >Exponential           | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | Incremental Unlimited       | eee30      |                        |                        | Number Engineer | N/A                                                             |
 | Infinite Layers             | ee308      | >Exponential           | >Exponential           | dan-simon       | https://dan-simon.github.io/misc/b2/                            |
