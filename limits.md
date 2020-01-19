@@ -12,6 +12,7 @@
 | NG+++                       | ee18       |                        |                        | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/  |
 | True Exponential            | ee16       | Exponential:polynomial | Exponential:polynomial | angarg12        | https://angarg12.github.io/TrueExponential/                     |
 | Antimatter Dimensions       | ee9        |                        | >Polynomial            | Hevipelle       | http://ivark.github.io/                                         |
+| Dilmod                      | ee9        |                        | >Polynomial            | Despacit       | https://dilmod.glitch.me/                                         |
 | Antimatter Dimensions Redux | ee8        |                        | >Polynomial            | Despacit        | https://ad2-thing.glitch.me/                                    |
 | Insane Idle                 | ee7        |                        |                        | keinniemand     | https://keinniemand.github.io/InsaneIdle/                       |
 | Antimatter Dimensions -1    | ee6        |                        | >Polynomial            | Soul147         | https://bit.ly/2NJeSTu/                                         |
