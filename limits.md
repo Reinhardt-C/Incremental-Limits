@@ -4,6 +4,7 @@
 | True Infinity Beta          | 10^^10^^450  | Doubly Tetrational      | Doubly Tetrational     | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/                     |
 | Tetrational Madness         | 10^^200000   | >=Tetrational           | n-ply exponential      | Patcail         | https://scratch.mit.edu/projects/341525196/                     |
 | True Tetrational            | 10^^10000    | Tetrational:polynomial  | Tetrational:polynomial | Patcail         | https://scratch.mit.edu/projects/310919497/                     |
+| Incremental Unlimited 2     | 10^^7        |                         |                        | Number Engineer | N/A 
 | True Infinity Alpha         | 10^^6        | Quintuply exponential   | Quintuply exponential  | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/               |
 | Exponential Madness         | 10^^5        | >Exponential            | >Exponential           | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | Incremental Unlimited       | eee30        |                         |                        | Number Engineer | N/A                                                             |
