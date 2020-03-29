@@ -8,6 +8,8 @@
 | True Infinity Alpha         | 10^^6        | Quintuply exponential   | Quintuply exponential  | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/               |
 | Exponential Madness         | 10^^5        | >Exponential            | >Exponential           | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | Incremental Unlimited       | eee30        |                         |                        | Number Engineer | N/A                                                             |
+| Reactor Idle Knockoff 100   | eee6         | >Exponential            |                        | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/       |
+
 | Infinite Layers             | ee308        | >Exponential            | >Exponential           | dan-simon       | https://dan-simon.github.io/misc/b2/                            |
 | Multiplying Incrementals    | ee308        | >=Doubly exponential    | Doubly exponential     | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                     |
 | Pixel Moose Clicker         | ee308        |                         |                        | greenshaman     | https://scratch.mit.edu/projects/337681661/                     |
