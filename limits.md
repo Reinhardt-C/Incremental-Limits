@@ -1,6 +1,6 @@
 | Game                        | Limit        | Growth Rate (Active)    | Growth Rate (Idle)     | Creator         | Link                                                            |
 |-----------------------------|--------------|-------------------------|------------------------|-----------------|-----------------------------------------------------------------|
-| Reinhardt's House   | 10{1000}10   | {{0}}-nal             | Nil                       | Reinhardt         | https://reinhardt-c.github.io/ReinHouse/       |
+| Reinhardt's House   | 10{1000}10   | Ackermannian             | Nil                       | Reinhardt         | https://reinhardt-c.github.io/ReinHouse/       |
 | Lngi Incremental            | 10^^^1.8e308 | Pentational:exponential | N/A                    | Katakana        | https://lngi-incremental.glitch.me/                             |
 | True Infinity Beta          | 10^^10^^450  | Doubly Tetrational      | Doubly Tetrational     | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                     |
 | Incremental Unlimited 2     | 10^^10^308        |                         |                        | Number Engineer | N/A 
