@@ -5,12 +5,12 @@
 | True Infinity Beta          | 10^^10^^450  | Doubly Tetrational      | Doubly Tetrational     | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                     |
 | 1 Generator Infinite Upgrades     | 10^^10^10^10000  | Tetrational:doubly exponential | Tetrational:doubly exponential    | Naruyoko       | https://naruyoko.github.io/one-generator--infinite-upgrades/                     |
 | Incremental Unlimited 2     | 10^^10^308        |                         |                        | Number Engineer | N/A 
+| Exponential Madness         | 10^^10^308~+        | >Exponential            | >Exponential           | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | The Unscaled Incremental    | 10^^10^15     | Tetrational:polynomial    |               | SuperSpruce | https://superspruce.github.io/TheUnscaledIncremental/
 | Tetrational Madness         | 10^^200000   | >=Tetrational           | n-ply exponential      | Patcail         | https://scratch.mit.edu/projects/341525196/                     |
 | True Tetrational            | 10^^10000    | Tetrational:polynomial  | Tetrational:polynomial | Patcail         | https://scratch.mit.edu/projects/310919497/                     |
 | Reactor Idle Knockoff 100   | 10^^10000   | Tetrational             |                         | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/       |
 | True Infinity Alpha         | 10^^6        | Quintuply exponential   | Quintuply exponential  | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/               |
-| Exponential Madness         | 10^^5        | >Exponential            | >Exponential           | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/               |
 | Omega Layers                | eee100       | Triply exponential     | Doubly exponential.     | VeproGames      | https://veprogames.github.io/omega-layers/                                                             |
 | Incremental Unlimited       | eee30        |                         |                        | Number Engineer | N/A                                                             |
 | Infinite Layers             | ee308        | >Exponential            | >Exponential           | dan-simon       | https://dan-simon.github.io/misc/b2/                            |
