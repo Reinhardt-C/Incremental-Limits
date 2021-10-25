@@ -164,7 +164,8 @@
         <td> ??? </td>
         <td> greenshaman </td>
         <td> 
-            <a href="https://scratch.mit.edu/projects/337681661/"> Web (Scratch) </a> 
+            <strike><a href="https://scratch.mit.edu/projects/337681661/"> Web (Scratch) </a></strike>
+            Defunct
         </td>
     </tr>
     <tr>
