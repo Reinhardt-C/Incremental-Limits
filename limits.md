@@ -129,6 +129,16 @@
             <a href="https://play.google.com/store/apps/details?id=com.antoine.mathematician.oddlittlegame"> Android (Google Play) </a> 
         </td>
     </tr>
+    <tr>
+        <td> Exponential Idle </td>
+        <td> 10^10^50000 <br> or ee50000 </td>
+        <td> ??? </td>
+        <td> Conic Games </td>
+        <td> 
+            <a href="https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle"> Android (Google Play) </a> <br>
+            <a href="https://apps.apple.com/us/app/exponential-idle/id1538487382"> iOS (App Store) </a>
+        </td>
+    </tr>
     <tr> <th colspan=5>Logarithmica_Numerus bound (10^10^308 or ee308)</th> </tr>
     <tr>
         <td> Infinite Layers </td>
