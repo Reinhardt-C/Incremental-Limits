@@ -21,6 +21,15 @@
         </td>
     </tr>
     <tr>
+        <td> The Communitree! </td>
+        <td> 10^^^10^10^1000 <br> or GEE1000 </td>
+        <td> ??? </td>
+        <td> ducdat0507 </td>
+        <td> 
+            <a href="https://ducdat0507.github.io/communitree/"> Web (Github Pages) </a> 
+        </td>
+    </tr>
+    <tr>
         <td> LNGI Incremental </td>
         <td> 10^^^1.8e308 <br> or G308 </td>
         <td> Pentational : Exponential <br> f<sub>4</sub>(f<sub>2</sub>(t)) </td>
@@ -40,7 +49,7 @@
     </tr>
     <tr>
         <td> 1 Generator Infinite Upgrades </td>
-        <td> 10^^10^10^10000 <br> or Fee10000 </td>
+        <td> 10^^10^10^10000 <br> or FEE10000 </td>
         <td> Tetrational : Exponential^2 <br> f<sub>3</sub>(f<sub>2</sub><sup>2</sup>(t)) </td>
         <td> Naruyoko </td>
         <td> 
@@ -50,7 +59,7 @@
     <tr> <th colspan=5>Break_Eternity bound (10^^10^308 or Fe308)</th> </tr>
     <tr>
         <td> Incremental Unlimited 2 </td>
-        <td> 10^^10^308 <br> or Fe308 </td>
+        <td> 10^^10^308 <br> or FE308 </td>
         <td> ??? </td>
         <td> Number Engineer </td>
         <td> 
@@ -59,7 +68,7 @@
     </tr>
     <tr>
         <td> The Unscaled Incremental </td>
-        <td> 10^^10^15 <br> or Fe15 </td>
+        <td> 10^^10^15 <br> or FE15 </td>
         <td> Tetrational : Polynomial <br> f<sub>3</sub>(t<sup>n</sup>) </td>
         <td> SuperSpruce </td>
         <td> 
@@ -113,7 +122,7 @@
     </tr>
     <tr>
         <td> Omega Layers </td>
-        <td> eee100 <br> or eee100 </td>
+        <td> eee100 <br> or EEE100 </td>
         <td> Exponential^3 <br> f<sub>2</sub><sup>3</sup>(t) </td>
         <td> VeproGames </td>
         <td> 
@@ -122,7 +131,7 @@
     </tr>
     <tr>
         <td> Incremental Unlimited </td>
-        <td> 10^10^10^30 <br> or eee30 </td>
+        <td> 10^10^10^30 <br> or EEE30 </td>
         <td> ??? </td>
         <td> Number Engineer </td>
         <td> 
@@ -131,7 +140,7 @@
     </tr>
     <tr>
         <td> Exponential Idle </td>
-        <td> 10^10^50000 <br> or ee50000 </td>
+        <td> 10^10^50000 <br> or EE50000 </td>
         <td> ??? </td>
         <td> Conic Games </td>
         <td> 
@@ -142,7 +151,7 @@
     <tr> <th colspan=5>Logarithmica_Numerus bound (10^10^308 or ee308)</th> </tr>
     <tr>
         <td> Infinite Layers </td>
-        <td> 10^10^308 <br> or ee308 </td>
+        <td> 10^10^308 <br> or EE308 </td>
         <td> &gt; Exponential <br> &gt; f<sub>2</sub>(t) </td>
         <td> dan-simon </td>
         <td> 
@@ -151,7 +160,7 @@
     </tr>
     <tr>
         <td> Pixel Moose Clicker </td>
-        <td> 10^10^308 <br> or ee308 </td>
+        <td> 10^10^308 <br> or EE308 </td>
         <td> ??? </td>
         <td> greenshaman </td>
         <td> 
@@ -160,7 +169,7 @@
     </tr>
     <tr>
         <td> Antimatter Dimensions NG+++ </td>
-        <td> 10^10^18 <br> or ee308 </td>
+        <td> 10^10^18 <br> or EE308 </td>
         <td> ??? </td>
         <td> Aarex </td>
         <td> 
@@ -170,7 +179,7 @@
     <tr> <th colspan=5>Break_Infinity bound (10^10^16 or ee16)</th> </tr>
     <tr>
         <td> True Exponential </td>
-        <td> 10^10^16 <br> or ee16 </td>
+        <td> 10^10^16 <br> or EE16 </td>
         <td> Exponential : Polynomial <br> f<sub>2</sub>(t<sup>n</sup>) </td>
         <td> angarg12 </td>
         <td> 
@@ -179,7 +188,7 @@
     </tr>
     <tr>
         <td> Antimatter Dimensions </td>
-        <td> 10^10^9 <br> or ee9 </td>
+        <td> 10^10^9 <br> or EE9 </td>
         <td> ??? </td>
         <td> Hevipelle </td>
         <td> 
@@ -188,7 +197,7 @@
     </tr>
     <tr>
         <td> Antimatter Dimensions -1 Dilmod </td>
-        <td> 10^10^9 <br> or ee9 </td>
+        <td> 10^10^9 <br> or EE9 </td>
         <td> &gt; Polynomial <br> &gt; t(x) </td>
         <td> Despacit </td>
         <td> 
@@ -197,7 +206,7 @@
     </tr>
     <tr>
         <td> Antimatter Dimensions Redux </td>
-        <td> 10^10^8 <br> or ee8 </td>
+        <td> 10^10^8 <br> or EE8 </td>
         <td> &gt; Polynomial <br> &gt; t(x) </td>
         <td> Despacit </td>
         <td> 
@@ -206,7 +215,7 @@
     </tr>
     <tr>
         <td> Insane Idle </td>
-        <td> 10^10^7 <br> or ee7 </td>
+        <td> 10^10^7 <br> or EE7 </td>
         <td> ??? </td>
         <td> keinniemand </td>
         <td> 
@@ -215,7 +224,7 @@
     </tr>
     <tr>
         <td> Antimatter Dimensions -1 </td>
-        <td> 10^1000000 <br> or e1000000 </td>
+        <td> 10^1000000 <br> or E1000000 </td>
         <td> &gt; Polynomial <br> &gt; t(x) </td>
         <td> Soul147 </td>
         <td> 
@@ -224,7 +233,7 @@
     </tr>
     <tr>
         <td> Idle Loot Quest </td>
-        <td> 10^100000 <br> or e100000 </td>
+        <td> 10^100000 <br> or E100000 </td>
         <td> ??? </td>
         <td> TopCog </td>
         <td> 
@@ -233,7 +242,7 @@
     </tr>
     <tr>
         <td> Clicker Heroes </td>
-        <td> 10^100000 <br> or e100000 </td>
+        <td> 10^100000 <br> or E100000 </td>
         <td> ??? </td>
         <td> PlaySaurus </td>
         <td> 
@@ -243,7 +252,7 @@
     <tr> <th colspan=5>Float-256 bound (10^78913 or e78913)</th> </tr>
     <tr>
         <td> Incremenal Adventures </td>
-        <td> 10^10000 <br> or e10000 </td>
+        <td> 10^10000 <br> or E10000 </td>
         <td> ??? </td>
         <td> Gniller </td>
         <td> 
@@ -252,7 +261,7 @@
     </tr>
     <tr>
         <td> Swarm Simulator </td>
-        <td> 10^4800 <br> or e4800 </td>
+        <td> 10^4800 <br> or E4800 </td>
         <td> ??? </td>
         <td> kawaritai </td>
         <td> 
@@ -261,4 +270,5 @@
     </tr>
 </table>
 
-<sup>\*</sup> \<function1>:\<function2> means the function composition. Ex.) Exponential:polynomial~`t^t^n`, where `t` is time and `n` is a constant.
+Note: `<function1> : <function2>` means the function composition. <br>
+Ex. Exponential:polynomial ≈ `t^t^n`, where `t` is time and `n` is a constant.
