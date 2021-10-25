@@ -199,7 +199,7 @@
     <tr>
         <td> Antimatter Dimensions -1 Dilmod </td>
         <td> 10^10^9 <br> or EE9 </td>
-        <td> &gt; Polynomial <br> &gt; t(x) </td>
+        <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Despacit </td>
         <td> 
             <a href="https://dilmod.glitch.me/"> Web (Glitch) </a> 
@@ -208,7 +208,7 @@
     <tr>
         <td> Antimatter Dimensions Redux </td>
         <td> 10^10^8 <br> or EE8 </td>
-        <td> &gt; Polynomial <br> &gt; t(x) </td>
+        <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Despacit </td>
         <td> 
             <a href="https://ad2-thing.glitch.me/"> Web (Glitch) </a> 
@@ -226,7 +226,7 @@
     <tr>
         <td> Antimatter Dimensions -1 </td>
         <td> 10^1000000 <br> or E1000000 </td>
-        <td> &gt; Polynomial <br> &gt; t(x) </td>
+        <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Soul147 </td>
         <td> 
             <a href="https://raw.githack.com/Soul147/soul147.github.io/beta-testing/Antimatter%20Dimensions%20II/index.html"> Web (Githack) </a> 
