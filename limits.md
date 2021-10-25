@@ -230,7 +230,7 @@
             <a href="https://www.clickerheroes.com/"> Web </a> 
         </td>
     </tr>
-    <tr> <th colspan=5>256-float bound (10^78913 or e78913)</th> </tr>
+    <tr> <th colspan=5>Float-256 bound (10^78913 or e78913)</th> </tr>
     <tr>
         <td> Incremenal Adventures </td>
         <td> 10^10000 <br> or e10000 </td>
