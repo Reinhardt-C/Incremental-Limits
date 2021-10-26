@@ -1,6 +1,6 @@
 <table>
     <tr> <th>Game</th> <th>Limit</th> <th>Growth Rate</th> <th>Creator</th> <th>Links</th> </tr>
-    <tr> <th colspan=5>ExpantaNum bound ({1,9e15,1,2} or H9e15)</th> </tr>
+    <tr> <th colspan=5>ExpantaNum bound (10{{1}}9e15 or K9e15)</th> </tr>
     <tr>
         <td> Endless Stairwell </td>
         <td> 10{{1}}9e15 <br> or K9e15 </td>
