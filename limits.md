@@ -3,8 +3,8 @@
     <tr> <th colspan=5>ExpantaNum bound ({1,9e15,1,2} or H9e15)</th> </tr>
     <tr>
         <td> Endless Stairwell </td>
-        <td> 10{10^29}10 <br> or Je29 </td>
-        <td> &gt; Ackermannian <br> &gt; f<sub>ω</sub>(t) </td>
+        <td> {10,9e15,1,2} <br> or K9e15 </td>
+        <td> Expansion <br> f<sub>ω+1</sub>(t) </td>
         <td> Demonin </td>
         <td> 
             <a href="https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/"> Web (Repl) </a> 
