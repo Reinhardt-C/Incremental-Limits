@@ -3,7 +3,7 @@
     <tr> <th colspan=5>ExpantaNum bound ({1,9e15,1,2} or H9e15)</th> </tr>
     <tr>
         <td> Endless Stairwell </td>
-        <td> {10,9e15,1,2} <br> or K9e15 </td>
+        <td> 10{{1}}9e15 <br> or K9e15 </td>
         <td> Expansion <br> f<sub>ω+1</sub>(t) </td>
         <td> Demonin </td>
         <td> 
