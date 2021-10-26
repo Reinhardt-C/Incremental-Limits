@@ -7,7 +7,7 @@
         <td> Expansion <br> f<sub>ω+1</sub>(t) </td>
         <td> Demonin </td>
         <td> 
-            <a href="https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/"> Web (Repl) </a> 
+            <a href="https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/">Web (Repl)</a> 
         </td>
     </tr>
     <tr> <th colspan=5>OmegaNum bound (10{1000}10 or J1000)</th> </tr>
@@ -17,7 +17,7 @@
         <td> Ackermannian <br> f<sub>ω</sub>(t) </td>
         <td> Reinhardt </td>
         <td> 
-            <a href="https://reinhardt-c.github.io/ReinHouse/"> Web (Github) </a> 
+            <a href="https://reinhardt-c.github.io/ReinHouse/">Web (Github)</a> 
         </td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@
         <td> ??? </td>
         <td> ducdat0507 </td>
         <td> 
-            <a href="https://ducdat0507.github.io/communitree/"> Web (Github Pages) </a> 
+            <a href="https://ducdat0507.github.io/communitree/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
         <td> Pentational : Exponential <br> f<sub>4</sub>(f<sub>2</sub>(t)) </td>
         <td> Katakana </td>
         <td> 
-            <a href="https://lngi-incremental.glitch.me/"> Web (Glitch) </a> 
+            <a href="https://lngi-incremental.glitch.me/">Web (Glitch)</a> 
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
         <td> Tetrational^2 <br> f<sub>3</sub><sup>2</sup>(t) </td>
         <td> Reinhardt </td>
         <td> 
-            <a href="https://reinhardt-c.github.io/TrueInfinity/beta"> Web (Github Pages) </a> 
+            <a href="https://reinhardt-c.github.io/TrueInfinity/beta">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
         <td> Tetrational : Exponential^2 <br> f<sub>3</sub>(f<sub>2</sub><sup>2</sup>(t)) </td>
         <td> Naruyoko </td>
         <td> 
-            <a href="https://naruyoko.github.io/one-generator--infinite-upgrades/"> Web (Github Pages) </a> 
+            <a href="https://naruyoko.github.io/one-generator--infinite-upgrades/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr> <th colspan=5>Break_Eternity bound (10^^10^308 or Fe308)</th> </tr>
@@ -63,7 +63,7 @@
         <td> ??? </td>
         <td> Number Engineer </td>
         <td> 
-            <a href="https://play.google.com/store/apps/details?id=numberengineer.com.incrementalunlimited"> Android (Google Play) </a> 
+            <a href="https://play.google.com/store/apps/details?id=numberengineer.com.incrementalunlimited">Android (Google Play)</a> 
         </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@
         <td> Tetrational : Polynomial <br> f<sub>3</sub>(t<sup>n</sup>) </td>
         <td> SuperSpruce </td>
         <td> 
-            <a href="https://superspruce.github.io/TheUnscaledIncremental/"> Web (Github Pages) </a> 
+            <a href="https://superspruce.github.io/TheUnscaledIncremental/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@
         <td> ≥ Tetrational <br> ≥ f<sub>3</sub>(t) </td>
         <td> Patcail </td>
         <td> 
-            <a href="https://scratch.mit.edu/projects/341525196/"> Web (Scratch) </a> 
+            <a href="https://scratch.mit.edu/projects/341525196/">Web (Scratch)</a> 
         </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
         <td> Tetrational : Polynomial <br> f<sub>3</sub>(t<sup>n</sup>) </td>
         <td> Patcail </td>
         <td> 
-            <a href="https://scratch.mit.edu/projects/310919497/"> Web (Scratch) </a> 
+            <a href="https://scratch.mit.edu/projects/310919497/">Web (Scratch)</a> 
         </td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@
         <td> Tetrational <br> f<sub>3</sub>(t) </td>
         <td> Redfire </td>
         <td> 
-            <a href="https://redfire75369.github.io/Reactor-Idle-Knockoff-100/"> Web (Github Pages) </a> 
+            <a href="https://redfire75369.github.io/Reactor-Idle-Knockoff-100/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -108,7 +108,7 @@
         <td> Exponential^5 <br> f<sub>2</sub><sup>5</sup>(t) </td>
         <td> Reinhardt </td>
         <td> 
-            <a href="https://reinhardt-c.github.io/TrueInfinity/alpha/"> Web (Github Pages) </a> 
+            <a href="https://reinhardt-c.github.io/TrueInfinity/alpha/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@
         <td> &gt; Exponential <br> &gt; f<sub>2</sub>(t) </td>
         <td> TheTastyPi </td>
         <td> 
-            <a href="https://thetastypi.github.io/Exponential-Madness/"> Web (Github Pages) </a> 
+            <a href="https://thetastypi.github.io/Exponential-Madness/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@
         <td> Exponential^3 <br> f<sub>2</sub><sup>3</sup>(t) </td>
         <td> VeproGames </td>
         <td> 
-            <a href="https://veprogames.github.io/omega-layers/"> Web (Github Pages) </a> 
+            <a href="https://veprogames.github.io/omega-layers/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@
         <td> ??? </td>
         <td> Number Engineer </td>
         <td> 
-            <a href="https://play.google.com/store/apps/details?id=com.antoine.mathematician.oddlittlegame"> Android (Google Play) </a> 
+            <a href="https://play.google.com/store/apps/details?id=com.antoine.mathematician.oddlittlegame">Android (Google Play)</a> 
         </td>
     </tr>
     <tr>
@@ -144,8 +144,8 @@
         <td> ??? </td>
         <td> Conic Games </td>
         <td> 
-            <a href="https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle"> Android (Google Play) </a> <br>
-            <a href="https://apps.apple.com/us/app/exponential-idle/id1538487382"> iOS (App Store) </a>
+            <a href="https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle">Android (Google Play)</a> <br>
+            <a href="https://apps.apple.com/us/app/exponential-idle/id1538487382">iOS (App Store)</a>
         </td>
     </tr>
     <tr> <th colspan=5>Logarithmica_Numerus bound (10^10^308 or ee308)</th> </tr>
@@ -155,7 +155,7 @@
         <td> &gt; Exponential <br> &gt; f<sub>2</sub>(t) </td>
         <td> dan-simon </td>
         <td> 
-            <a href="https://dan-simon.github.io/misc/b2/"> Web (Github Pages) </a> 
+            <a href="https://dan-simon.github.io/misc/b2/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@
         <td> ??? </td>
         <td> greenshaman </td>
         <td> 
-            <strike><a href="https://scratch.mit.edu/projects/337681661/"> Web (Scratch) </a></strike>
+            <strike><a href="https://scratch.mit.edu/projects/337681661/">Web (Scratch)</a></strike>
             Defunct
         </td>
     </tr>
@@ -174,7 +174,7 @@
         <td> ??? </td>
         <td> Aarex </td>
         <td> 
-            <a href="https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/"> Web (Githack) </a> 
+            <a href="https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/">Web (Githack)</a> 
         </td>
     </tr>
     <tr> <th colspan=5>Break_Infinity bound (10^10^16 or ee16)</th> </tr>
@@ -184,7 +184,7 @@
         <td> Exponential : Polynomial <br> f<sub>2</sub>(t<sup>n</sup>) </td>
         <td> angarg12 </td>
         <td> 
-            <a href="https://angarg12.github.io/TrueExponential/"> Web (Github Pages) </a> 
+            <a href="https://angarg12.github.io/TrueExponential/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -193,7 +193,7 @@
         <td> ??? </td>
         <td> Hevipelle </td>
         <td> 
-            <a href="http://ivark.github.io/"> Web (Github Pages) </a> 
+            <a href="http://ivark.github.io/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -202,7 +202,7 @@
         <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Despacit </td>
         <td> 
-            <a href="https://dilmod.glitch.me/"> Web (Glitch) </a> 
+            <a href="https://dilmod.glitch.me/">Web (Glitch)</a> 
         </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@
         <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Despacit </td>
         <td> 
-            <a href="https://ad2-thing.glitch.me/"> Web (Glitch) </a> 
+            <a href="https://ad2-thing.glitch.me/">Web (Glitch)</a> 
         </td>
     </tr>
     <tr>
@@ -220,7 +220,7 @@
         <td> ??? </td>
         <td> keinniemand </td>
         <td> 
-            <a href="https://keinniemand.github.io/InsaneIdle/"> Web (Github Pages) </a> 
+            <a href="https://keinniemand.github.io/InsaneIdle/">Web (Github Pages)</a> 
         </td>
     </tr>
     <tr>
@@ -229,7 +229,7 @@
         <td> &gt; Polynomial <br> &gt; t<sup>n</sup> </td>
         <td> Soul147 </td>
         <td> 
-            <a href="https://raw.githack.com/Soul147/soul147.github.io/beta-testing/Antimatter%20Dimensions%20II/index.html"> Web (Githack) </a> 
+            <a href="https://raw.githack.com/Soul147/soul147.github.io/beta-testing/Antimatter%20Dimensions%20II/index.html">Web (Githack)</a> 
         </td>
     </tr>
     <tr>
@@ -238,7 +238,7 @@
         <td> ??? </td>
         <td> TopCog </td>
         <td> 
-            <a href="https://play.google.com/store/apps/details?id=com.topcog.idlelootquest"> Android (Google Play) </a> 
+            <a href="https://play.google.com/store/apps/details?id=com.topcog.idlelootquest">Android (Google Play)</a> 
         </td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@
         <td> ??? </td>
         <td> PlaySaurus </td>
         <td> 
-            <a href="https://www.clickerheroes.com/"> Web </a> 
+            <a href="https://www.clickerheroes.com/">Web</a> 
         </td>
     </tr>
     <tr> <th colspan=5>Float-256 bound (10^78913 or e78913)</th> </tr>
@@ -257,7 +257,7 @@
         <td> ??? </td>
         <td> Gniller </td>
         <td> 
-            <a href="https://www.kongregate.com/games/Gniller/incremental-adventures"> Web (Kongregate) </a> 
+            <a href="https://www.kongregate.com/games/Gniller/incremental-adventures">Web (Kongregate)</a> 
         </td>
     </tr>
     <tr>
@@ -266,7 +266,7 @@
         <td> ??? </td>
         <td> kawaritai </td>
         <td> 
-            <a href="https://www.swarmsim.com/"> Web </a> 
+            <a href="https://www.swarmsim.com/">Web</a> 
         </td>
     </tr>
 </table>
