@@ -1,5 +1,5 @@
 | Game                        | Limit        | Growth Rate (Active)    | Growth Rate (Idle)     | Creator         | Link                                                            |
-|-----------------------------|--------------|-------------------------|------------------------|-----------------|-----------------------------------------------------------------|
+|-|-|-|-|-|-|
 | Endless Stairwell   | 10{10^29}10   | >Ackermannian             |                        | Demonin         | https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/       |
 | Reinhardt's House   | 10{1000}10   | Ackermannian             | Nil                       | Reinhardt         | https://reinhardt-c.github.io/ReinHouse/       |
 | Lngi Incremental            | 10^^^1.8e308 | Pentational:exponential | N/A                    | Katakana        | https://lngi-incremental.glitch.me/                             |
