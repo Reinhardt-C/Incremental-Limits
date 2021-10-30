@@ -11,12 +11,12 @@
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                        |
 | Plague Tree                   | 10^^20000 - F20,000          | >=Tetrational             | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
 | True Tetrational              | 10^^10000 - F10,000          | Tetrational:Polynomial    | Patcail         | https://scratch.mit.edu/projects/310919497/                        |
-| Reactor Idle Knockoff 100     | 10^^10000 - F10,000          | Tetrational               | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
 | True Infinity Alpha           | 10^^6 - F6                   | Exponential^5             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/                  |
 | Exponential Madness           | 10^^5 - F5                   | Exponential^4             | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/                  |
 | Tree of Life                  | 10^10^10^170 - ee1e170       | Exponential^3             | pg132           | http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html |
 | Omega Layers                  | 10^10^10^100 - ee1e100       | Exponential^3             | VeproGames      | https://veprogames.github.io/omega-layers/                         |
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | N/A                                                                |
+| Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
 | Synergism                     | 10^10^50 - e1e50             | >=Exponential             | Platonic        | https://pseudo-corp.github.io/SynergismOfficial/                   |
