@@ -19,7 +19,6 @@
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | N/A                                                                |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
-| Pixel Moose Clicker           | 10^10^308 - e1e308           | Exponential^2             | greenshaman     | https://scratch.mit.edu/projects/337681661/                        |
 | Synergism                     | 10^10^50 - e1e50             | >=Exponential             | Platonic        | https://pseudo-corp.github.io/SynergismOfficial/                   |
 | NG+++                         | 10^10^18 - e1e18             | >=Exponential             | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/     |
 | Calculator Evolution          | 10^10^16 - e1e16             | >=Exponential             | Spotky1004      | https://spotky1004.com/Calculator-Evolution/                       |
