@@ -16,6 +16,7 @@
 | Tree of Life                  | 10^10^10^170 - ee1e170       | Exponential^3             | pg132           | http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html |
 | Omega Layers                  | 10^10^10^100 - ee1e100       | Exponential^3             | VeproGames      | https://veprogames.github.io/omega-layers/                         |
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | N/A                                                                |
+| Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
 | Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
