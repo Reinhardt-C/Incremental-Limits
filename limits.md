@@ -34,7 +34,7 @@
 | Insane Idle                   | 10^10^7 - e1e7               | >=Exponential             | keinniemand     | https://keinniemand.github.io/InsaneIdle/                          |
 | Incremental Mass Rewritten    | 10^3200000 - e3,200,000      | Exponential               | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | Scrap II fanmade              | 10^2000000 - e2,000,000      | Exponential               | VeproGames      | https://scrap-ii-fanmade.en.uptodown.com/android                  |
-| Antimatter Dimensions -1      | 10^1000000 - e1,000,000      | Exponential               | Soul147         | https://bit.ly/2NJeSTu/                                            |
+| Antimatter Dimensions -1      | 10^1000000 - e1,000,000      | Exponential               | Soul147         | https://bit.ly/2NJeSTu                                            |
 | Universe Shrinker             | 10^1000000 - e1,000,000      | Exponential               | VeproGames      | https://veprogames.github.io/universe-shrinker/                    |
 | Idle Loot Quest               | 10^100000 - e100,000         | Exponential               | TopCog          | N/A                                                                |
 | Clicker Heroes                | 10^100000 - e100,000         | Exponential               | PlaySaurus      | https://www.clickerheroes.com/                                     |
