@@ -19,6 +19,7 @@
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | https://bit.ly/Incremental-Unlimited                                                                |
 | Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
 | Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
+| Incremental Adventures        | 10^10^450 - e1e450           | Exponential^2             | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
 | Synergism                     | 10^10^50 - e1e50             | >=Exponential             | Platonic        | https://pseudo-corp.github.io/SynergismOfficial/                   |
@@ -41,7 +42,6 @@
 | Idle Loot Quest               | 10^100000 - e100,000         | Exponential               | TopCog          | https://bit.ly/Idle-Loot-Quest                                                                |
 | Clicker Heroes                | 10^100000 - e100,000         | Exponential               | PlaySaurus      | https://www.clickerheroes.com/                                     |
 | Idle Mine: Remix              | 10^50000 - e50,000           | Exponential               | VeproGames      | https://veprogames.github.io/idle-mine-remix/                      |
-| Incremental Adventures        | 10^10000 - e10,000           | Exponential               | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
 | Swarm Simulator               | 10^4800 - e4,800             | >=Polynomial              | kawaritai       | https://www.swarmsim.com/                                          |
 
 <sup>\*</sup> \<function1>:\<function2> means the function composition. Ex.) Exponential:polynomial~`t^t^n`, where `t` is time and `n` is a constant.
