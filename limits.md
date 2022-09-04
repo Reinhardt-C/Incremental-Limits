@@ -10,13 +10,13 @@
 | Towers of Googology           | 10^^10^10^1000 - Fe1e1,000   | Tetrational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/towers/                               |
 | The Prestreestuck             | 10^^1.8e308 - F1.8e308       | Tetrational:Exponential   | ducdat0507      | https://ducdat0507.github.io/prestreestuck/                       |
 | Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                             |
+| Plague Tree                   | 10^^10^17 - F1e17            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
 | The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/              |
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                        |
-| Plague Tree                   | 10^^20000 - F20,000          | >=Tetrational             | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
 | True Tetrational              | 10^^10000 - F10,000          | Tetrational:Polynomial    | Patcail         | https://scratch.mit.edu/projects/310919497/                        |
 | True Infinity Alpha           | 10^^6 - F6                   | Exponential^5             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/                  |
 | Exponential Madness           | 10^^5 - F5                   | Exponential^4             | TheTastyPi      | https://thetastypi.github.io/Exponential-Madness/                  |
-| Tree of Life                  | 10^10^10^170 - ee1e170       | Exponential^3             | pg132           | http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html |
+| Tree of Life                  | 10^10^10^10^89 - eee1e89     | Exponential^4             | pg132           | http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html |
 | Omega Layers                  | 10^10^10^100 - ee1e100       | Exponential^3             | VeproGames      | https://veprogames.github.io/omega-layers/                         |
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | https://bit.ly/Incremental-Unlimited                               |
 | Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
