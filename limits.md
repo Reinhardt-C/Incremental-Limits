@@ -25,6 +25,7 @@
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
 | Synergism                     | 10^10^50 - e1e50             | >=Exponential             | Platonic        | https://pseudo-corp.github.io/SynergismOfficial/                   |
+| Incremental Mass Rewritten    | 10^10^25 - e1e25             | >=Exponential             | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | NG+++                         | 10^10^18 - e1e18             | >=Exponential             | Aarex           | https://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/     |
 | Calculator Evolution          | 10^10^16 - e1e16             | >=Exponential             | Spotky1004      | https://spotky1004.com/Calculator-Evolution/                       |
 | Prestige Tree Rewritten       | 10^10^16 - e1e16             | >=Exponential             | Jacorb          | https://jacorb90.me/Prestige-Tree/                                 |
