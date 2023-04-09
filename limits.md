@@ -29,11 +29,11 @@
 | Calculator Evolution          | 10^10^16 - e1e16             | >=Exponential             | Spotky1004      | https://spotky1004.com/Calculator-Evolution/                       |
 | Prestige Tree Rewritten       | 10^10^16 - e1e16             | >=Exponential             | Jacorb          | https://jacorb90.me/Prestige-Tree/                                 |
 | True Exponential              | 10^10^16 - e1e16             | Exponential:Polynomial    | angarg12        | https://angarg12.github.io/TrueExponential/                        |
+| Antimatter Dimensions         | 10^(9×10^15) - e9e15         | >=Exponential             | Hevipelle       | https://ivark.github.io/AntimatterDimensions/                      |
 | The Yoshi Portal              | 10^10^15 - e1e15             | >=Exponential             | Demonin         | https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/   |
 | Tuba's Tree              | 10^10^14 - e1e14             | >=Exponential             | randomtuba         | https://randomtuba.github.io/Tubas-Tree/   |
 | Distance Incremental          | 10^10^12 - e1e12             | >=Exponential             | Jacorb          | https://jacorb90.me/DistInc.github.io/main.html                    |
 | Yet Another Merge Game        | 10^10^11 - e1e11             | >=Exponential             | VeproGames      | https://veprogames.github.io/yet-another-merge-game/               |
-| Antimatter Dimensions         | 10^10^9 - e1e9               | >=Exponential             | Hevipelle       | http://ivark.github.io/                                            |
 | Dilmod                        | 10^10^9 - e1e9               | >=Exponential             | Despacit        | https://dilmod.glitch.me/                                          |
 | Antimatter Dimensions Redux   | 10^10^8 - e1e8               | >=Exponential             | Despacit        | https://ad2-thing.glitch.me/                                       |
 | Scrap Clicker++               | 10^10^8 - e1e8               | >=Exponential             | Bullz 04        | https://bullz04.github.io/scrap-clicker++/game/                    |
