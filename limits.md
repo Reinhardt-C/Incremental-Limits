@@ -10,7 +10,7 @@
 | Towers of Googology           | 10^^10^10^1000 - Fe1e1,000   | Tetrational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/towers/                               |
 | The Prestreestuck             | 10^^1.8e308 - F1.8e308       | Tetrational:Exponential   | ducdat0507      | https://ducdat0507.github.io/prestreestuck/                        |
 | Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                             |
-| Plague Tree                   | 10^^10^17 - F1e17            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
+| Plague Tree                   | 10^^10^35 - F1e35            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
 | The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/              |
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                        |
 | True Tetrational              | 10^^10000 - F10,000          | Tetrational:Polynomial    | Patcail         | https://scratch.mit.edu/projects/310919497/                        |
