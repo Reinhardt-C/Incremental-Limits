@@ -21,6 +21,7 @@
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | https://bit.ly/Incremental-Unlimited                               |
 | Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
 | Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
+| Incremental Mass Rewritten    | 10^10^3400 - ee3400          | Exponential^2             | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | Incremental Adventures        | 10^10^450 - e1e450           | Exponential^2             | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
@@ -39,7 +40,6 @@
 | Antimatter Dimensions Redux   | 10^10^8 - e1e8               | >=Exponential             | Despacit        | https://ad2-thing.glitch.me/                                       |
 | Scrap Clicker++               | 10^10^8 - e1e8               | >=Exponential             | Bullz 04        | https://bullz04.github.io/scrap-clicker++/game/                    |
 | Insane Idle                   | 10^10^7 - e1e7               | >=Exponential             | keinniemand     | https://keinniemand.github.io/InsaneIdle/                          |
-| Incremental Mass Rewritten    | 10^3200000 - e3,200,000      | Exponential               | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | Scrap II fanmade              | 10^2000000 - e2,000,000      | Exponential               | VeproGames      | https://scrap-ii-fanmade.en.uptodown.com/android                   |
 | Antimatter Dimensions -1      | 10^1000000 - e1,000,000      | Exponential               | Soul147         | https://bit.ly/2NJeSTu                                             |
 | Universe Shrinker             | 10^1000000 - e1,000,000      | Exponential               | VeproGames      | https://veprogames.github.io/universe-shrinker/                    |
