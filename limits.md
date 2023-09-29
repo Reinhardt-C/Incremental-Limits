@@ -20,7 +20,7 @@
 | Omega Layers                  | 10^10^10^100 - ee1e100       | Exponential^3             | VeproGames      | https://veprogames.github.io/omega-layers/                         |
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | https://bit.ly/Incremental-Unlimited                               |
 | Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
-| Incremental Mass Rewritten    | 10^10^3400 - ee3400          | Exponential^2             | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
+| Incremental Mass Rewritten    | 10^10^12000 - e1e12,000      | Exponential^2             | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
 | Incremental Adventures        | 10^10^450 - e1e450           | Exponential^2             | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
