@@ -5,7 +5,7 @@
 | The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html |
 | The Communitree!              | 10^^^10^10^1000 - Ge1e1,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             |
 | Lngi Incremental              | 10^^^1.8e308 - G1e308        | Pentational:Exponential   | Katakana        | https://lngi-incremental.glitch.me/                                   |
-| Time Transcending Clocks      | 10^^^10^13 - G1e13           | Pentational:Exponential   | Leo Zhang       | https://plasma4.github.io/my-site/clocks.html                         |
+| Time Transcending Clocks      | 10^^^10^13 - G1e13           | Pentational:Polynomial    | Leo Zhang       | https://plasma4.github.io/my-site/clocks.html                         |
 | True Infinity Beta            | 10^^10^^450 - FF450          | Tetrational^2             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                       |
 | 1 Generator Infinite Upgrades | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | Naruyoko        | https://naruyoko.github.io/one-generator--infinite-upgrades/          |
 | 1G∞U Vepro Mod                | 10^^10^10^10000 - Fe1e10,000 | Tetrational:Exponential^2 | VeproGames      | https://veprogames.github.io/one-generator--infinite-upgrades/        |
