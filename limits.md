@@ -1,6 +1,6 @@
 | Game                          | Limit                        | Growth Rate               | Creator         | Link                                                                  |
 |-------------------------------|------------------------------|---------------------------|-----------------|-----------------------------------------------------------------------|
-| Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   |
+| Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://demonin.com/games/endlessStairwell          |
 | Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              |
 | The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html |
 | The Communitree!              | 10^^^10^10^1000 - Ge1e1,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             |
@@ -32,7 +32,7 @@
 | Prestige Tree Rewritten       | 10^10^16 - e1e16             | >=Exponential             | Jacorb          | https://jacorb90.me/Prestige-Tree/                                    |
 | True Exponential              | 10^10^16 - e1e16             | Exponential:Polynomial    | angarg12        | https://angarg12.github.io/TrueExponential/                           |
 | Antimatter Dimensions         | 10^(9×10^15) - e9e15         | >=Exponential             | Hevipelle       | https://ivark.github.io/AntimatterDimensions/                         |
-| The Yoshi Portal              | 10^10^15 - e1e15             | >=Exponential             | Demonin         | https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/      |
+| The Yoshi Portal              | 10^10^15 - e1e15             | >=Exponential             | Demonin         | https://demonin.com/games/theYoshiPortal     |
 | Tuba's Tree                   | 10^10^14 - e1e14             | >=Exponential             | randomtuba      | https://randomtuba.github.io/Tubas-Tree/                              |
 | Distance Incremental          | 10^10^12 - e1e12             | >=Exponential             | Jacorb          | https://jacorb90.me/DistInc.github.io/main.html                       |
 | Yet Another Merge Game        | 10^10^11 - e1e11             | >=Exponential             | VeproGames      | https://veprogames.github.io/yet-another-merge-game/                  |
