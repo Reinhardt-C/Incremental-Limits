@@ -32,7 +32,7 @@
 | Prestige Tree Rewritten       | 10^10^16 - e1e16             | >=Exponential             | Jacorb          | https://jacorb90.me/Prestige-Tree/                                    |
 | True Exponential              | 10^10^16 - e1e16             | Exponential:Polynomial    | angarg12        | https://angarg12.github.io/TrueExponential/                           |
 | Antimatter Dimensions         | 10^(9×10^15) - e9e15         | >=Exponential             | Hevipelle       | https://ivark.github.io/AntimatterDimensions/                         |
-| The Yoshi Portal              | 10^10^15 - e1e15             | >=Exponential             | Demonin         | https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/      |
+| The Yoshi Portal              | 10^10^15 - e1e15             | >=Exponential             | Demonin         | https://demonin.com/games/theYoshiPortal                              |
 | Tuba's Tree                   | 10^10^14 - e1e14             | >=Exponential             | randomtuba      | https://randomtuba.github.io/Tubas-Tree/                              |
 | Distance Incremental          | 10^10^12 - e1e12             | >=Exponential             | Jacorb          | https://jacorb90.me/DistInc.github.io/main.html                       |
 | Yet Another Merge Game        | 10^10^11 - e1e11             | >=Exponential             | VeproGames      | https://veprogames.github.io/yet-another-merge-game/                  |
