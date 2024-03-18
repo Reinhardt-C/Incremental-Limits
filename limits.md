@@ -3,7 +3,7 @@
 | Endless Stairwell             | 10{{1}}9e15 - K9e15          | Expansion                 | Demonin         | https://gsui5051.github.io/Endless-Stairwell/Endless-Stairwell.html   |
 | Reinhardt's House             | 10{1000}10 - J1,000          | Ackermannian              | Reinhardt       | https://reinhardt-c.github.io/ReinHouse/                              |
 | The Pro Tree                  | 10^^^^1000 - H1,000          | Pentational:Exponential^3 | ProGamesGrinder | https://raw.githack.com/ProGamesOP/The-Modding-Tree/master/index.html |
-| Time Transcending Clocks      | 10^^^10^10^1e25 - Gee1e25    | Pentational:Exponential^2 | Leo Zhang       | https://plasma4.github.io/my-site/clocks.html                         |
+| Time Transcending Clocks      | 10^^^10^10^1e300 - Gee1e300  | Pentational:Exponential^2 | Leo Zhang       | https://plasma4.github.io/my-site/clocks.html                         |
 | The Communitree!              | 10^^^10^10^1000 - Ge1e1,000  | Pentational:Exponential^2 | ducdat0507      | https://ducdat0507.github.io/communitree/                             |
 | Lngi Incremental              | 10^^^1.8e308 - G1e308        | Pentational:Exponential   | Katakana        | https://lngi-incremental.glitch.me/                                   |
 | True Infinity Beta            | 10^^10^^450 - FF450          | Tetrational^2             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/beta                       |
